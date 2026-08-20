@@ -52,4 +52,7 @@ The layout adapts to different screen sizes while maintaining the music player e
 
 ![Tablet Screenshot](screenshots/Tablet.png)
 
-## 🚀 How to Run
+## 🌐 Links
+
+- 📂 [GitHub Repository](https://github.com/pallav916/spotify-Clone)
+- 🎵 Live Demo — Coming Soon
